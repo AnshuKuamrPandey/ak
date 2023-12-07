@@ -8,6 +8,9 @@
           <li>House</li>
           <li>Ghar</li>
           <li>Room</li>
+          <li>Room</li>
+          <li>Room</li>
+          <li>Room</li>
         </ul>
       </div>
     </>
