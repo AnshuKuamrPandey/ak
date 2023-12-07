@@ -2,7 +2,14 @@
  export default  function NavBar (){
      return (
     <>
-      <h1>Navbar</h1>
+      <div>
+        <ul className="flex text-xl gap-2  ">
+          <li>Home</li>
+          <li>House</li>
+          <li>Ghar</li>
+          <li>Room</li>
+        </ul>
+      </div>
     </>
      )
   }

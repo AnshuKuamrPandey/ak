@@ -5,7 +5,6 @@ import Anshu from "./components/NavBar";
 function App() {
   return (
     <>
-
     <div className="flex justify-center ">
     <div className="flex flex-col   ">
       <Anshu />
